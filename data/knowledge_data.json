@@ -1,0 +1,40 @@
+{
+  "ai_engineer": {
+    "skills": [
+      "Python Programming",
+      "Machine Learning",
+      "Deep Learning",
+      "Generative AI",
+      "Agentic AI",
+      "RAG (Retrieval-Augmented Generation)"
+    ],
+    "certifications": [
+      "Microsoft AI-102 (Azure AI Engineer)",
+      "Google Cloud Generative AI Certification"
+    ],
+    "projects": [
+      "AI Career Coach Agent",
+      "Resume Analyzer Tool",
+      "Interview Assistant Agent",
+      "Multi-Agent Research Workflow"
+    ]
+  },
+  "data_scientist": {
+    "skills": [
+      "Python Programming",
+      "Statistics & Probability",
+      "Data Analysis",
+      "Data Visualization",
+      "SQL"
+    ],
+    "certifications": [
+      "Microsoft DP-100 (Azure Data Scientist)",
+      "Google Data Analytics Certificate"
+    ],
+    "projects": [
+      "Sales Forecasting Dashboard",
+      "Customer Segmentation Analysis",
+      "A/B Testing Framework"
+    ]
+  }
+}
